@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "DFDEAA93-DC96-477F-9C29-6D0BAB38768C",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:DemoNotification.xcodeproj",
+      "identifier" : "BE11C7AA2B1E102B00EB69AF",
+      "name" : "DemoNotification"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:DemoNotification.xcodeproj",
+        "identifier" : "BE11C7CA2B1E102E00EB69AF",
+        "name" : "DemoNotificationUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
